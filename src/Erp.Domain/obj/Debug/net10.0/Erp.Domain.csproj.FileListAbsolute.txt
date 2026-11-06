@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\bin\Debug\net10.0\Erp.Domain.deps.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\bin\Debug\net10.0\Erp.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\bin\Debug\net10.0\Erp.Domain.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\bin\Debug\net10.0\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\bin\Debug\net10.0\Erp.SharedKernel.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.csproj.Up2Date
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\refint\Erp.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\Erp.Domain.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Domain\obj\Debug\net10.0\ref\Erp.Domain.dll

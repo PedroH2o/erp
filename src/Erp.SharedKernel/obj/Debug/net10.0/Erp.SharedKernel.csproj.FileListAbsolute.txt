@@ -1,0 +1,11 @@
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\bin\Debug\net10.0\Erp.SharedKernel.deps.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\bin\Debug\net10.0\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\bin\Debug\net10.0\Erp.SharedKernel.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\refint\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\Erp.SharedKernel.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.SharedKernel\obj\Debug\net10.0\ref\Erp.SharedKernel.dll

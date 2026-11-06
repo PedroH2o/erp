@@ -1,0 +1,7 @@
+{
+  "Erp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Api",
+  "Erp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Application",
+  "Erp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain",
+  "Erp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Infrastructure",
+  "Erp.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.SharedKernel"
+}
