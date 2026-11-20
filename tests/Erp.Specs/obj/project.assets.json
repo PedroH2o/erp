@@ -565,30 +565,44 @@
           }
         }
       },
-      "Erp.Application/1.0.0": {
+      "Erp.Nucleo.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Erp.Domain": "1.0.0"
+          "Erp.Nucleo.Contracts": "1.0.0",
+          "Erp.Nucleo.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Erp.Application.dll": {}
+          "bin/placeholder/Erp.Nucleo.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Erp.Application.dll": {}
+          "bin/placeholder/Erp.Nucleo.Application.dll": {}
         }
       },
-      "Erp.Domain/1.0.0": {
+      "Erp.Nucleo.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Erp.SharedKernel": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Erp.Domain.dll": {}
+          "bin/placeholder/Erp.Nucleo.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Erp.Domain.dll": {}
+          "bin/placeholder/Erp.Nucleo.Contracts.dll": {}
+        }
+      },
+      "Erp.Nucleo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Erp.SharedKernel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Erp.Nucleo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Erp.Nucleo.Domain.dll": {}
         }
       },
       "Erp.SharedKernel/1.0.0": {
@@ -1416,15 +1430,20 @@
         "xunit.skippablefact.nuspec"
       ]
     },
-    "Erp.Application/1.0.0": {
+    "Erp.Nucleo.Application/1.0.0": {
       "type": "project",
-      "path": "../../src/Erp.Application/Erp.Application.csproj",
-      "msbuildProject": "../../src/Erp.Application/Erp.Application.csproj"
+      "path": "../../src/Erp.Nucleo.Application/Erp.Nucleo.Application.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Application/Erp.Nucleo.Application.csproj"
     },
-    "Erp.Domain/1.0.0": {
+    "Erp.Nucleo.Contracts/1.0.0": {
       "type": "project",
-      "path": "../../src/Erp.Domain/Erp.Domain.csproj",
-      "msbuildProject": "../../src/Erp.Domain/Erp.Domain.csproj"
+      "path": "../../src/Erp.Nucleo.Contracts/Erp.Nucleo.Contracts.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Contracts/Erp.Nucleo.Contracts.csproj"
+    },
+    "Erp.Nucleo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../src/Erp.Nucleo.Domain/Erp.Nucleo.Domain.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Domain/Erp.Nucleo.Domain.csproj"
     },
     "Erp.SharedKernel/1.0.0": {
       "type": "project",
@@ -1434,7 +1453,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Erp.Application >= 1.0.0",
+      "Erp.Nucleo.Application >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "Reqnroll.xUnit >= 3.3.4",
       "coverlet.collector >= 6.0.4",
@@ -1467,8 +1486,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Application\\Erp.Application.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Application\\Erp.Application.csproj"
+            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Application\\Erp.Nucleo.Application.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Application\\Erp.Nucleo.Application.csproj"
             }
           }
         }

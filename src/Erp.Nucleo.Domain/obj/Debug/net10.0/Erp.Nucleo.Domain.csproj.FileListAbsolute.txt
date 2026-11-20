@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\bin\Debug\net10.0\Erp.Nucleo.Domain.deps.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\bin\Debug\net10.0\Erp.Nucleo.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\bin\Debug\net10.0\Erp.Nucleo.Domain.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\bin\Debug\net10.0\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\bin\Debug\net10.0\Erp.SharedKernel.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.sourcelink.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucl.FD28D871.Up2Date
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\refint\Erp.Nucleo.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\Erp.Nucleo.Domain.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Domain\obj\Debug\net10.0\ref\Erp.Nucleo.Domain.dll

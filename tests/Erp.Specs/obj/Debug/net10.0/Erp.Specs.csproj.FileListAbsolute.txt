@@ -96,11 +96,13 @@ C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\zh-Hans\Micros
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Application.dll
-C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Domain.dll
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Application.dll
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Contracts.dll
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Domain.dll
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.SharedKernel.dll
-C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Application.pdb
-C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Domain.pdb
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Application.pdb
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Contracts.pdb
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.Nucleo.Domain.pdb
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\bin\Debug\net10.0\Erp.SharedKernel.pdb
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.csproj.AssemblyReference.cache
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.ProcessFeatureFileInputs.cache
@@ -109,6 +111,7 @@ C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.Asse
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.AssemblyInfo.cs
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.csproj.CoreCompileInputs.cache
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\xUnit.AssemblyHooks.Erp_Specs.cs
+C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.sourcelink.json
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.csproj.Up2Date
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\Erp.Specs.dll
 C:\Users\Pedro\Desktop\APIs\erp\tests\Erp.Specs\obj\Debug\net10.0\refint\Erp.Specs.dll

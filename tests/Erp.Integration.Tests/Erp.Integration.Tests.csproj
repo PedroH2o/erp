@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Erp.Api\Erp.Api.csproj" />
-    <ProjectReference Include="..\..\src\Erp.Infrastructure\Erp.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\Erp.Nucleo.Infrastructure\Erp.Nucleo.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,14 +4,14 @@
     "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\tests\\Erp.Domain.Tests\\Erp.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj": {
+    "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj",
-        "projectName": "Erp.Domain",
-        "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj",
+        "projectName": "Erp.Nucleo.Domain",
+        "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -698,8 +698,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj"
+              "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj"
               }
             }
           }

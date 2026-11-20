@@ -39,7 +39,7 @@
       "Erp.Integration.Tests/1.0.0": {
         "dependencies": {
           "Erp.Api": "1.0.0",
-          "Erp.Infrastructure": "1.0.0",
+          "Erp.Nucleo.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Testing": "10.0.14",
           "Microsoft.NET.Test.Sdk": "17.14.1",
           "Testcontainers.PostgreSql": "4.16.0",
@@ -1752,8 +1752,8 @@
       },
       "Erp.Api/1.0.0": {
         "dependencies": {
-          "Erp.Application": "1.0.0",
-          "Erp.Infrastructure": "1.0.0",
+          "Erp.Nucleo.Application": "1.0.0",
+          "Erp.Nucleo.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.14",
           "Microsoft.AspNetCore.OpenApi": "10.0.14",
           "Serilog.AspNetCore": "10.0.0"
@@ -1768,47 +1768,62 @@
           "Erp.Api.dll": {}
         }
       },
-      "Erp.Application/1.0.0": {
+      "Erp.Nucleo.Application/1.0.0": {
         "dependencies": {
-          "Erp.Domain": "1.0.0"
+          "Erp.Nucleo.Contracts": "1.0.0",
+          "Erp.Nucleo.Domain": "1.0.0"
         },
         "runtime": {
-          "Erp.Application.dll": {
+          "Erp.Nucleo.Application.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
         "compile": {
-          "Erp.Application.dll": {}
+          "Erp.Nucleo.Application.dll": {}
         }
       },
-      "Erp.Domain/1.0.0": {
+      "Erp.Nucleo.Contracts/1.0.0": {
         "dependencies": {
           "Erp.SharedKernel": "1.0.0"
         },
         "runtime": {
-          "Erp.Domain.dll": {
+          "Erp.Nucleo.Contracts.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
         "compile": {
-          "Erp.Domain.dll": {}
+          "Erp.Nucleo.Contracts.dll": {}
         }
       },
-      "Erp.Infrastructure/1.0.0": {
+      "Erp.Nucleo.Domain/1.0.0": {
         "dependencies": {
-          "Erp.Application": "1.0.0",
+          "Erp.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Erp.Nucleo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "Erp.Nucleo.Domain.dll": {}
+        }
+      },
+      "Erp.Nucleo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Erp.Nucleo.Application": "1.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3"
         },
         "runtime": {
-          "Erp.Infrastructure.dll": {
+          "Erp.Nucleo.Infrastructure.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
         "compile": {
-          "Erp.Infrastructure.dll": {}
+          "Erp.Nucleo.Infrastructure.dll": {}
         }
       },
       "Erp.SharedKernel/1.0.0": {
@@ -4076,17 +4091,22 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Erp.Application/1.0.0": {
+    "Erp.Nucleo.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Erp.Domain/1.0.0": {
+    "Erp.Nucleo.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Erp.Infrastructure/1.0.0": {
+    "Erp.Nucleo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Erp.Nucleo.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

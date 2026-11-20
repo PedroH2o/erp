@@ -1169,8 +1169,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Erp.Application": "1.0.0",
-          "Erp.Infrastructure": "1.0.0",
+          "Erp.Nucleo.Application": "1.0.0",
+          "Erp.Nucleo.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.14",
           "Microsoft.AspNetCore.OpenApi": "10.0.14",
           "Serilog.AspNetCore": "10.0.0"
@@ -1185,44 +1185,58 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Erp.Application/1.0.0": {
+      "Erp.Nucleo.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Erp.Domain": "1.0.0"
+          "Erp.Nucleo.Contracts": "1.0.0",
+          "Erp.Nucleo.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Erp.Application.dll": {}
+          "bin/placeholder/Erp.Nucleo.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Erp.Application.dll": {}
+          "bin/placeholder/Erp.Nucleo.Application.dll": {}
         }
       },
-      "Erp.Domain/1.0.0": {
+      "Erp.Nucleo.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Erp.SharedKernel": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Erp.Domain.dll": {}
+          "bin/placeholder/Erp.Nucleo.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Erp.Domain.dll": {}
+          "bin/placeholder/Erp.Nucleo.Contracts.dll": {}
         }
       },
-      "Erp.Infrastructure/1.0.0": {
+      "Erp.Nucleo.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Erp.Application": "1.0.0",
+          "Erp.SharedKernel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Erp.Nucleo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Erp.Nucleo.Domain.dll": {}
+        }
+      },
+      "Erp.Nucleo.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Erp.Nucleo.Application": "1.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3"
         },
         "compile": {
-          "bin/placeholder/Erp.Infrastructure.dll": {}
+          "bin/placeholder/Erp.Nucleo.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Erp.Infrastructure.dll": {}
+          "bin/placeholder/Erp.Nucleo.Infrastructure.dll": {}
         }
       },
       "Erp.SharedKernel/1.0.0": {
@@ -2881,20 +2895,25 @@
       "path": "../../src/Erp.Api/Erp.Api.csproj",
       "msbuildProject": "../../src/Erp.Api/Erp.Api.csproj"
     },
-    "Erp.Application/1.0.0": {
+    "Erp.Nucleo.Application/1.0.0": {
       "type": "project",
-      "path": "../../src/Erp.Application/Erp.Application.csproj",
-      "msbuildProject": "../../src/Erp.Application/Erp.Application.csproj"
+      "path": "../../src/Erp.Nucleo.Application/Erp.Nucleo.Application.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Application/Erp.Nucleo.Application.csproj"
     },
-    "Erp.Domain/1.0.0": {
+    "Erp.Nucleo.Contracts/1.0.0": {
       "type": "project",
-      "path": "../../src/Erp.Domain/Erp.Domain.csproj",
-      "msbuildProject": "../../src/Erp.Domain/Erp.Domain.csproj"
+      "path": "../../src/Erp.Nucleo.Contracts/Erp.Nucleo.Contracts.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Contracts/Erp.Nucleo.Contracts.csproj"
     },
-    "Erp.Infrastructure/1.0.0": {
+    "Erp.Nucleo.Domain/1.0.0": {
       "type": "project",
-      "path": "../../src/Erp.Infrastructure/Erp.Infrastructure.csproj",
-      "msbuildProject": "../../src/Erp.Infrastructure/Erp.Infrastructure.csproj"
+      "path": "../../src/Erp.Nucleo.Domain/Erp.Nucleo.Domain.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Domain/Erp.Nucleo.Domain.csproj"
+    },
+    "Erp.Nucleo.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../src/Erp.Nucleo.Infrastructure/Erp.Nucleo.Infrastructure.csproj",
+      "msbuildProject": "../../src/Erp.Nucleo.Infrastructure/Erp.Nucleo.Infrastructure.csproj"
     },
     "Erp.SharedKernel/1.0.0": {
       "type": "project",
@@ -2905,9 +2924,10 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Erp.Api >= 1.0.0",
-      "Erp.Application >= 1.0.0",
-      "Erp.Domain >= 1.0.0",
-      "Erp.Infrastructure >= 1.0.0",
+      "Erp.Nucleo.Application >= 1.0.0",
+      "Erp.Nucleo.Contracts >= 1.0.0",
+      "Erp.Nucleo.Domain >= 1.0.0",
+      "Erp.Nucleo.Infrastructure >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "NetArchTest.Rules >= 1.3.2",
       "coverlet.collector >= 6.0.4",
@@ -2943,14 +2963,17 @@
             "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Api\\Erp.Api.csproj": {
               "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Api\\Erp.Api.csproj"
             },
-            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Application\\Erp.Application.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Application\\Erp.Application.csproj"
+            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Application\\Erp.Nucleo.Application.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Application\\Erp.Nucleo.Application.csproj"
             },
-            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Domain\\Erp.Domain.csproj"
+            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Contracts\\Erp.Nucleo.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Contracts\\Erp.Nucleo.Contracts.csproj"
             },
-            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Infrastructure\\Erp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Infrastructure\\Erp.Infrastructure.csproj"
+            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Domain\\Erp.Nucleo.Domain.csproj"
+            },
+            "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Infrastructure\\Erp.Nucleo.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\APIs\\erp\\src\\Erp.Nucleo.Infrastructure\\Erp.Nucleo.Infrastructure.csproj"
             }
           }
         }

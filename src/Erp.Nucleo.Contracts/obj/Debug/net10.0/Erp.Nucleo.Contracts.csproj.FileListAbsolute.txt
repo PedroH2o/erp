@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\bin\Debug\net10.0\Erp.Nucleo.Contracts.deps.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\bin\Debug\net10.0\Erp.Nucleo.Contracts.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\bin\Debug\net10.0\Erp.Nucleo.Contracts.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\bin\Debug\net10.0\Erp.SharedKernel.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\bin\Debug\net10.0\Erp.SharedKernel.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.sourcelink.json
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucl.6190A1FE.Up2Date
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\refint\Erp.Nucleo.Contracts.dll
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\Erp.Nucleo.Contracts.pdb
+C:\Users\Pedro\Desktop\APIs\erp\src\Erp.Nucleo.Contracts\obj\Debug\net10.0\ref\Erp.Nucleo.Contracts.dll

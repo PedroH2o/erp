@@ -20,9 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Erp.Domain\Erp.Domain.csproj" />
-    <ProjectReference Include="..\..\src\Erp.Application\Erp.Application.csproj" />
-    <ProjectReference Include="..\..\src\Erp.Infrastructure\Erp.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\Erp.Nucleo.Contracts\Erp.Nucleo.Contracts.csproj" />
+    <ProjectReference Include="..\..\src\Erp.Nucleo.Domain\Erp.Nucleo.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Erp.Nucleo.Application\Erp.Nucleo.Application.csproj" />
+    <ProjectReference Include="..\..\src\Erp.Nucleo.Infrastructure\Erp.Nucleo.Infrastructure.csproj" />
     <ProjectReference Include="..\..\src\Erp.Api\Erp.Api.csproj" />
   </ItemGroup>
 

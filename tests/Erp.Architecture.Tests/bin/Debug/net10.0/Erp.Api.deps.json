@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v10.0": {
       "Erp.Api/1.0.0": {
         "dependencies": {
-          "Erp.Application": "1.0.0",
-          "Erp.Infrastructure": "1.0.0",
+          "Erp.Nucleo.Application": "1.0.0",
+          "Erp.Nucleo.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.14",
           "Microsoft.AspNetCore.OpenApi": "10.0.14",
           "Microsoft.EntityFrameworkCore.Design": "10.0.14",
@@ -699,35 +699,47 @@
           }
         }
       },
-      "Erp.Application/1.0.0": {
+      "Erp.Nucleo.Application/1.0.0": {
         "dependencies": {
-          "Erp.Domain": "1.0.0"
+          "Erp.Nucleo.Contracts": "1.0.0",
+          "Erp.Nucleo.Domain": "1.0.0"
         },
         "runtime": {
-          "Erp.Application.dll": {
+          "Erp.Nucleo.Application.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Erp.Domain/1.0.0": {
+      "Erp.Nucleo.Contracts/1.0.0": {
         "dependencies": {
           "Erp.SharedKernel": "1.0.0"
         },
         "runtime": {
-          "Erp.Domain.dll": {
+          "Erp.Nucleo.Contracts.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Erp.Infrastructure/1.0.0": {
+      "Erp.Nucleo.Domain/1.0.0": {
         "dependencies": {
-          "Erp.Application": "1.0.0",
+          "Erp.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Erp.Nucleo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Erp.Nucleo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Erp.Nucleo.Application": "1.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3"
         },
         "runtime": {
-          "Erp.Infrastructure.dll": {
+          "Erp.Nucleo.Infrastructure.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1057,17 +1069,22 @@
       "path": "system.identitymodel.tokens.jwt/8.19.2",
       "hashPath": "system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512"
     },
-    "Erp.Application/1.0.0": {
+    "Erp.Nucleo.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Erp.Domain/1.0.0": {
+    "Erp.Nucleo.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Erp.Infrastructure/1.0.0": {
+    "Erp.Nucleo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Erp.Nucleo.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
